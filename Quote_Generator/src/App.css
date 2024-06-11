@@ -1,0 +1,12 @@
+.headerBox{
+  padding-top: 100px;
+  height: 50px;
+  background-color:rgba(33, 37, 41, 1);
+  color: aliceblue;
+}
+.outside-box{
+  height: 86vh;
+}
+.quote_data{
+  padding-top: 100px;
+}
